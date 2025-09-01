@@ -1,0 +1,28 @@
+.list{
+  display:flex;
+  list-style: none;
+  gap:2rem;
+  align-items: center;
+}
+.breadcrumb{
+  margin-left: 50px;
+}
+#navid{
+  background-color: antiquewhite;
+}
+#navi-id{
+  background-color: rgb(121, 164, 216);
+}
+#i1{
+  margin-left:60px;
+}
+#i2{
+margin-left:50px;
+}
+#i3{
+margin-left: 50px;
+}
+ body{
+  background-image: url('../images/kids3.webp');
+  background-repeat: no-repeat;
+ }
